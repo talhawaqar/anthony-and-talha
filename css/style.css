@@ -4,22 +4,15 @@
 }
 
 #title {
-  /* text-align: center;
-  width: 100%;
-  height: 300px; */
   background-color: #efefea;
 }
 
 .title-heading {
-  /* position: absolute;
-  margin-left: 40%; */
   margin-top: 100px;
   padding-top: 50px;
 }
 
 .title-subheading {
-  /* position: absolute; */
-  /* margin-left: 40%; */
   margin-top: 40px;
   padding-bottom: 20px;
   font-size: 1em;
