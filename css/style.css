@@ -3,6 +3,12 @@
   text-align: center;
 }
 
+@media all and (max-width: 600px) {
+  #main {
+    margin: 0 10px;
+  }
+}
+
 #title {
   background-color: #efefea;
 }
